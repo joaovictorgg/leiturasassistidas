@@ -148,8 +148,9 @@ LeiturasAssistidas é uma aplicação web para gerenciar e avaliar livros, filme
 
 ## Contato
 
-João Victor Gomes de Souza  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaovictorgomes-desouza/)
+João Victor Gomes de Souza
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaovictorgomes-desouza/) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://www.linkedin.com/in/joaovictorgomes-desouza/)
 
 
-[Repositório no GitHub](https://github.com/joaovictorgg/leiturasassistidas))
+[Repositório no GitHub](https://github.com/joaovictorgg/leiturasassistidas)
