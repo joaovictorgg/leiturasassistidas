@@ -2,6 +2,7 @@
 
 LeiturasAssistidas é uma aplicação web para gerenciar e avaliar livros, filmes, animes e séries que você já leu ou assistiu. A aplicação permite adicionar, editar, excluir e visualizar informações sobre esses itens.
 
+Preview: https://leiturasassistidas01.000webhostapp.com/
 ## Tecnologias Utilizadas
 ![Techs](https://skillicons.dev/icons?i=html,css,js,php,mysql)
 
