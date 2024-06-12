@@ -3,13 +3,7 @@
 LeiturasAssistidas é uma aplicação web para gerenciar e avaliar livros, filmes, animes e séries que você já leu ou assistiu. A aplicação permite adicionar, editar, excluir e visualizar informações sobre esses itens.
 
 ## Tecnologias Utilizadas
-
-- PHP
-- MySQL
-- HTML
-- CSS
-- JavaScript
-- Font Awesome
+![Techs](https://skillicons.dev/icons?i=html,css,js,php,mysql)
 
 ## Funcionalidades
 
@@ -150,7 +144,7 @@ LeiturasAssistidas é uma aplicação web para gerenciar e avaliar livros, filme
 
 João Victor Gomes de Souza
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaovictorgomes-desouza/) [![Gmail](https://skillicons.dev/icons?i=gmail)](https://www.linkedin.com/in/joaovictorgomes-desouza/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaovictorgomes-desouza/)
 
 
 [Repositório no GitHub](https://github.com/joaovictorgg/leiturasassistidas)
